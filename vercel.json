@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd wash-and-wager && npm install && npm run build",
+  "outputDirectory": "wash-and-wager/dist",
+  "installCommand": "cd wash-and-wager && npm install"
+}
